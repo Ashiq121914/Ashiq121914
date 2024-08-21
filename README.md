@@ -1,3 +1,5 @@
+![logo](./1707658211528.jfif)
+
 <h1 align="center">Hi 👋, I'm Gazi Ashiq Reza Gaffari</h1>
 <h3 align="center">A passionate Mern Developer from Bangladesh</h3>
 
