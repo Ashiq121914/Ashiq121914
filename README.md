@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gazi Ashiq Reza Gaffari</h1>
 <h3 align="center">A passionate Mern Developer from Bangladesh</h3>
 
-<img src="./pic.gif" align="right" alt="coding avater" width="400"/>
+<img src="./pic.gif" sytle="padding-left:15px" align="right" alt="coding avater" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiq121914&label=Profile%20views&color=0e75b6&style=flat" alt="ashiq121914" /> </p>
 
