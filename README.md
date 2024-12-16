@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js and problem solving skills.**
 
-- 👨‍💻 All of my projects are available at [https://gazi-ashiq-reza.netlify.app/home](https://gazi-ashiq-reza.netlify.app/home)
+- 👨‍💻 All of my projects are available at [https://portfolio-ashiq121914s-projects.vercel.app/](https://portfolio-ashiq121914s-projects.vercel.app/)
 
 - 💬 Ask me about **Javascript, node.js, react.js,express.js mongoDb etc.**
 
